@@ -1,0 +1,10 @@
+1. diccionario https://dle.rae.es/diccionario
+2. tesoro https://dle.rae.es/tesoro
+3. hacienda https://dle.rae.es/hacienda
+4. dinero https://dle.rae.es/dinero
+5. mosca https://dle.rae.es/mosca
+6. mango https://dle.rae.es/mango
+7. puño https://dle.rae.es/pu%C3%B1o
+8. porción https://dle.rae.es/porci%C3%B3n
+9. fracción https://dle.rae.es/fracci%C3%B3n
+10. cacho https://dle.rae.es/cacho
